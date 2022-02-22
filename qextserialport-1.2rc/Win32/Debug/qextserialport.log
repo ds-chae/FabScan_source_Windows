@@ -1,0 +1,21 @@
+﻿빌드 시작: 2014-12-16 오전 2:28:19
+     1>2 노드의 "C:\scanner\FabScan_source_Windows\qextserialport-1.2rc\qextserialport.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Win32\Debug\qextserialport.unsuccessfulbuild"을(를) 만들고 있습니다.
+       CustomBuild:
+         모든 출력이 최신 상태입니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       ResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         모든 출력이 최신 상태입니다.
+         qextserialport.vcxproj -> C:\scanner\FabScan_source_Windows\qextserialport-1.2rc\debug\Qt5ExtSerialPortd1.dll
+       FinalizeBuildStatus:
+         "Win32\Debug\qextserialport.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Win32\Debug\qextserialport.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\scanner\FabScan_source_Windows\qextserialport-1.2rc\qextserialport.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.17
